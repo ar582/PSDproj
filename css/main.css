@@ -44,6 +44,7 @@ hr {
     padding: 0;
 }
 
+
 /*
  * Remove the gap between images, videos, audio and canvas and the bottom of
  * their containers: h5bp.com/i/440
@@ -308,6 +309,7 @@ margin: 0px 0px 0 0;
 display:inline;
 line-height: 80px;
 }
+
 #title_area{
 width: 844px;
 height: 86px;
