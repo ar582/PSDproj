@@ -2,6 +2,7 @@
 
 # HTML5 Boilerplate documentation:
 
+
 ## Getting started
 
 * [Usage](usage.md) — Overview of the project contents.

@@ -3,6 +3,7 @@ table of contents](TOC.md)
 
 # The JavaScript
 
+
 Information about the default JavaScript included in the project.
 
 ## main.js

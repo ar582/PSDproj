@@ -3,7 +3,9 @@ table of contents](TOC.md)
 
 # Frequently asked questions
 
+
 ### Why is the URL for jQuery without "http"?
+
 
 This is an intentional use of [protocol-relative
 URLs](http://paulirish.com/2010/the-protocol-relative-url/)
